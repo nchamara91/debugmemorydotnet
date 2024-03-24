@@ -1,0 +1,14 @@
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\bin\Debug\net8.0\memoryhungryconsole.exe
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\bin\Debug\net8.0\memoryhungryconsole.deps.json
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\bin\Debug\net8.0\memoryhungryconsole.runtimeconfig.json
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\bin\Debug\net8.0\memoryhungryconsole.dll
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\bin\Debug\net8.0\memoryhungryconsole.pdb
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\obj\Debug\net8.0\memoryhungryconsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\obj\Debug\net8.0\memoryhungryconsole.AssemblyInfoInputs.cache
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\obj\Debug\net8.0\memoryhungryconsole.AssemblyInfo.cs
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\obj\Debug\net8.0\memoryhungryconsole.csproj.CoreCompileInputs.cache
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\obj\Debug\net8.0\memoryhungryconsole.dll
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\obj\Debug\net8.0\refint\memoryhungryconsole.dll
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\obj\Debug\net8.0\memoryhungryconsole.pdb
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\obj\Debug\net8.0\memoryhungryconsole.genruntimeconfig.cache
+E:\projects\DebugMemorydotnet\debugmemorydotnet\memoryhungryconsole\obj\Debug\net8.0\ref\memoryhungryconsole.dll
